@@ -12,7 +12,7 @@
     "@amcharts/amcharts5": "^5.12.2",
     "@amcharts/amcharts5-fonts": "^5.0.1",
     "@amcharts/amcharts5-geodata": "^5.1.4",
-    "next": "15.3.2",
+    "next": "15.3.8",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
